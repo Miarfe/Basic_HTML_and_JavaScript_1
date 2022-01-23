@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.spelling-error {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: red;
+}
+</style>
+</head>
+<body>
+
+<h2>JavaScript Alert</h2>
+<p>
+	<font face = "Roboto" size = "6">This text is written in Roboto font, and Sized doubled as default standard!</font>
+<div>
+	<p>This is normal text - <b>and this is bold text</b>.</p>
+	<p><i>Lorem ipsum</i> is the most popular filler text in history.</p>
+	<p>This is some <u class="spelling-error">mispeled</u> text.</p>
+</div>
+
+<br>
+<img src="https://m.media-amazon.com/images/I/71DGzWfieqL._AC_SL1280_.jpg" alt="Mercedes AMG GT Edition 50 V5" width="500" height="1600">
+
+<script src="Basic_JavaScript_1.js"> </script>
+
+</body>
+</html>
